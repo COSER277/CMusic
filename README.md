@@ -4,15 +4,15 @@
 
 ### 首页-发现音乐
 
-![预览]('/preview/网易云-个性.jpg)
+![预览]('preview/网易云-个性.jpg)
 
 ### 歌单详情
 
-![预览]('/preview/网易云-歌单详情.jpg)
+![预览]('preview/网易云-歌单详情.jpg)
 
 ### 排行榜
 
-![预览]('/preview/网易云-排行榜.jpg)
+![预览]('preview/网易云-排行榜.jpg)
 
 ## Project setup
 
